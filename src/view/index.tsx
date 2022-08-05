@@ -1,6 +1,7 @@
 import { useEffect } from 'react'
-import EmbededView from '@sentre/embeded-view'
 import { useUI } from '@sentre/senhub'
+
+import EmbededView from '@sentre/embeded-view'
 
 import configs from 'configs'
 
